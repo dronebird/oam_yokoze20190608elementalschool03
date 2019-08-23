@@ -12,5 +12,8 @@ https://tiles.openaerialmap.org/5d0001ba646468000608c52f/0/5d0001ba646468000608c
 * on OpenAerialMap
 https://map.openaerialmap.org/#/139.09857630729672,35.98968291735247,16/square/133002103110301202?_k=zdfjrr
 
+* on ひなたGIS
+https://hgis.pref.miyazaki.lg.jp/hinata/hinata.html#uxGL5XjoZLLz
+
 ![スクリーンショット 2019-06-11 15 52 12](https://user-images.githubusercontent.com/3981699/59251592-22815e80-8c65-11e9-8b45-bd15ac01e97c.jpg)
 ![スクリーンショット 2019-06-11 15 52 22](https://user-images.githubusercontent.com/3981699/59251593-22815e80-8c65-11e9-8043-69e82f27d803.jpg)
